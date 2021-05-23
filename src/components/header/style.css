@@ -1,5 +1,5 @@
 /* style/format header to match the theme for the site, in hindsight we could have declared some color variables up here in order to streamline color coding throughout this document */
-header {
+#header {
     display: flex;
     justify-content: space-between;
     padding: 1%;

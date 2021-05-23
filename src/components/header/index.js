@@ -3,9 +3,9 @@ import "./style.css"
 
 export default function Header() {
     return (
-        <div>
+        <div id="header">
             <h1>Trevor Eckberg's Portfolio</h1>
-      <nav class="navigation">
+      <nav className="navigation">
         <ul>
           <li><a href="#about-me">About Me</a></li>
           <li><a href="#work">Work</a></li>
