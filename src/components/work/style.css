@@ -30,15 +30,15 @@
     background-size: contain;
   }
   .proj-3 {
-    background-image: url("../../images/designdesk.jpg");
+    background-image: url("../../images/weatherDash.png");
     background-size: contain;
   }
   .proj-4 {
-    background-image: url("../../images/phoneImage.jpg");
+    background-image: url("../../images/teamProfile.png");
     background-size: contain;
   }
   .proj-5 {
-    background-image: url("../../images/digitalmixing.jpg");
+    background-image: url("../../images/employeeDir.png");
     background-size: contain;
   }
   /* adds a hover effect to the project class */

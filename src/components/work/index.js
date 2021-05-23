@@ -30,27 +30,27 @@ export default function Work() {
               </div>
             </section>
           </a>
-          <a href="https://github.com/trev-eck/css-demo-site" target="_blank">
+          <a href="https://trev-eck.github.io/weather-dashboard/" target="_blank">
             <section className="project proj-3">
               <div className="text-box">
-                <h3>Project 3</h3>
-                <p>React</p>
+                <h3>Weather Dashboard</h3>
+                <p>JS / HTML</p>
               </div>
             </section>
           </a>
-          <a href="https://github.com/trev-eck/my-first-repo" target="_blank">
+          <a href="https://github.com/trev-eck/team-profile-generator" target="_blank">
             <section className="project proj-4">
               <div className="text-box">
-                <h3>Project 4</h3>
-                <p>Node.js</p>
+                <h3>Team Profile Generator</h3>
+                <p>JS / HTML</p>
               </div>
             </section>
           </a>
-          <a href="https://github.com/trev-eck/code-refactor" target="_blank">
+          <a href="https://te-employee-tracker.herokuapp.com/" target="_blank">
             <section className="project proj-5">
               <div className="text-box">
-                <h3>Project 5</h3>
-                <p>MongoDB</p>
+                <h3>Employee Directory</h3>
+                <p>React</p>
               </div>
             </section>
           </a>
