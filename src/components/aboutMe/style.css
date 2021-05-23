@@ -1,6 +1,6 @@
 h2 {
     flex: 1.07;
-    border-right: solid 0.25vw darkslategray;
+    /* border-right: solid 0.25vw darkslategray; */
   }
   #about-me {
     flex: 1.07;
@@ -25,3 +25,10 @@ h2 {
     padding-top: 1%;
     padding-bottom: 1%;
   }
+  #banner {
+    display: flex;
+    width: 100%;
+    background-image: url("../../images/laptopBanner.jpg");
+    /* background-size: contain; */
+    height: 10vh;
+}

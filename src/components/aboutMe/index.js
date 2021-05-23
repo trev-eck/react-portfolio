@@ -3,8 +3,12 @@ import "./style.css"
 
 export default function AboutMe() {
     return (
+      <>
+      <div id="banner"/>
         <div id="container">
+          <div id="about-me">
             <h2>About Me</h2>
+            </div>
         <div id="about-me-pic"></div>
         <div id="about-me-info">
           <p>
@@ -20,5 +24,6 @@ export default function AboutMe() {
           </p>
         </div>
         </div>
+        </>
     )
 }
