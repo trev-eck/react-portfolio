@@ -1,0 +1,20 @@
+/* style/format header to match the theme for the site, in hindsight we could have declared some color variables up here in order to streamline color coding throughout this document */
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: darkslategray;
+    color: lightblue;
+    text-decoration: underline solid lightblue 2px;
+  }
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 30vw;
+    list-style: none;
+  }
+  nav a {
+    color: lightblue;
+    text-decoration: none;
+    font-size: 1.5vw;
+  }
