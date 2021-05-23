@@ -1,0 +1,27 @@
+h2 {
+    flex: 1.07;
+    border-right: solid 0.25vw darkslategray;
+  }
+  #about-me {
+    flex: 1.07;
+    border-right: solid 0.25vw darkslategray;
+  }
+  #about-me-pic {
+    flex: 0.67;
+    background-image: url("../../images/head-shot.jpg");
+    background-size: contain;
+    border: solid 5px lightblue;
+    margin-left: 5%;
+  }
+  #about-me-info {
+    flex: 4.33;
+  }
+  #about-me-info p {
+    padding: 1% 10%;
+    font-size: 1.5vw;
+  }
+  #container {
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }

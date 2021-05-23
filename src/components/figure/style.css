@@ -1,0 +1,6 @@
+#figure-img {
+    width: 100%;
+    background-image: url("../../images/laptopBanner.jpg");
+    background-size: contain;
+    height: fit-content;
+}
