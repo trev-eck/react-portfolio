@@ -15,7 +15,7 @@ export default function Work() {
               {/* <!-- creates a box of text to describe the project --> */}
               <div className="text-box">
                 <h3>Pokedex IRL</h3>
-                <p>JS / HBS / SQL</p>
+                <p>JS / Node / Express / SQL</p>
               </div>
             </section>
           </a>
